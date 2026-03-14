@@ -85,8 +85,8 @@ I value:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (add if you want)
+* GitHub: https://github.com/shreesh30
+* LinkedIn: https://www.linkedin.com/in/shreesh-arya-05493a193
 
 ---
 
