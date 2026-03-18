@@ -15,7 +15,7 @@ Java • Python • Dart • C++ • JavaScript
 
 Spring Boot • Spring • Spring MVC • Java Servlets • Hibernate • Spring Security
 Django • RESTful APIs • Microservices Architecture
-RabbitMQ • Apache Lucene
+ • RabbitMQ • Apache Lucene
 
 ### Frontend & Mobile
 
